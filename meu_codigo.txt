@@ -1,4 +1,4 @@
 Esse é meu primeiro código no GitHub
 
 Linha editada no GitHub online
-Nico editou aqui
+Alteração do nico removida.
