@@ -1,4 +1,9 @@
 Esse é meu primeiro código no GitHub
 
 Linha editada no GitHub online
+<<<<<<< HEAD
 Alteração do nico removida.
+=======
+Nico editou aqui
+Test
+>>>>>>> branch_nico
